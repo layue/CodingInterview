@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "Singleton.h"
+#import "Header.h"
 
 static Singleton  *sharedInstance = nil;
 
